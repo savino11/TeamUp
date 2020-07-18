@@ -1,0 +1,37 @@
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+
+#navbar
+{
+  background: #109485;
+  border-bottom: border-top: 1px solid #0b7569;
+}
+
+#body-container
+{
+  background: #b5e6da;
+}
+
+.mymenu
+{
+  height: 200px;
+  width: 450px;
+  overflow-y: scroll;
+}
+
+#sidebar
+{
+  border: 1px solid #0b7569;
+}
+
+#homepage
+{
+  background: white;
+  border-top: 1px solid #0b7569;
+  border-bottom: 1px solid #0b7569;
+  border-right: 1px solid #0b7569;
+}
+
+.the-post
+{
+  border: 1px solid #0b7569;
+}
